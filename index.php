@@ -11,8 +11,16 @@
 
 	<?php
 
+	#single line commend example
+    
+    //single line commend example
+
+   /* this multipull line
+    commend example */
+    echo "hello world";
+
 	echo "<br>";
-	$a = 1;
+	$a = 200;
 	ECHO "$a";
 
 	?>
