@@ -22,6 +22,18 @@
 	echo "<br>";
 	$a = 200;
 	ECHO "$a";
+	echo "<br>";
+
+   //PHP Variables
+	$txt = 'PHP Variables';
+	$a = 10;
+	$b = 10.6;
+	$c= $a + $b;
+
+	echo "$txt";
+	echo " <br>";
+	echo "$c";
+
 
 	?>
 
