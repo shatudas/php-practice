@@ -38,6 +38,26 @@
 	?>
 
 
+	<br>
+
+
+	<?php
+
+	echo "hello computer";//or
+	echo ("hello computer");// echo fasted show borwser
+	echo "hello","computer"; //echo multipul value support
+
+	print"hello computer";
+	
+	$text = print "print return value 1";
+	echo "<br>";
+	print $text;
+
+
+
+	?>
+
+
 
 </body>
 </html>
